@@ -1,0 +1,29 @@
+/* ensure all pages have Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+/* .fill-window {
+  height: 80%;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+} */
+
+/* .footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+} */
+
+/* .footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+} */
